@@ -1,4 +1,5 @@
-![moodselectorlogo](https://github.com/user-attachments/assets/a0801aed-ad1e-44f2-9fde-4dca1844f42a)
+
+## <p align="center"> ![moodselectorlogo](https://github.com/user-attachments/assets/a0801aed-ad1e-44f2-9fde-4dca1844f42a) </p>
 
 The most common mods for DOOM are created using the WAD and pk3 formats, which contain game data such as textures and maps. Players can load these mods using a compatible launcher or game engine, such as GZDoom or Zandronum. These engines allow for greater flexibility and modern features, such as support for enhanced graphics and multiplayer modes.
 
